@@ -4,6 +4,6 @@ This project was made for the course MATH 489 Statistical Programming. It was an
 
 # What each file represents?
 
-•analysis.ipynb explains how the data was collected and performs hypothesis testing on the collection of movies.
-•get_data.py is parser application
+•analysis.ipynb explains how the data was collected and performs hypothesis testing on the collection of movies.<br>
+•get_data.py is parser application<br>
 •modeling.ipynb trains three different models(Linear Regression, Shallow Neural Network and Deep Neural Network) which predicts user_ratings of the movies.
